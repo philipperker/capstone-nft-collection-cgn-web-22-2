@@ -9,6 +9,7 @@
   "author": "Philipp Erker",
   "license": "ISC",
   "dependencies": {
+    "@pinata/sdk": "^1.1.25",
     "dotenv": "^16.0.1",
     "prettier": "^2.6.2"
   }
