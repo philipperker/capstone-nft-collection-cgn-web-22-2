@@ -41,7 +41,6 @@ for (let i = 0; i < student.length; i++) {
         return `https://gateway.pinata.cloud/ipfs/${result.IpfsHash}`;
       })
       .catch(err => {
-        //handle error here
         console.log(err);
       });
   };
